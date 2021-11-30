@@ -18,7 +18,7 @@ What do I do in my day to day
 - 📝 I’m currently working on **My [Youtube channel](https://www.youtube.com/channel/UCpShfqHcTduURlVihvknzXg)**
 - 🌱 I’m currently learning **Web development, data science**
 - 👯 He sought to collaborate in courses for big platforms
-- 💬 Ask me about **data sciencie, artificial intelligent, web development and smart contract**
+- 💬 Ask me about **data sciencie, web development and smart contract**
 - 📫 How to reach me **bluelightswebs@gmail.com**
 - 📄 Know about my experiences [on my youtube channel](https://www.youtube.com/channel/UCpShfqHcTduURlVihvknzXg)
 
