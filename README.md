@@ -1,4 +1,4 @@
-### Hi there 👋
+### HeY aQuI vEn 👋
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ismis-Future&theme=prussian&show_icons=true&locale=en" alt="Ismis Future" /> <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismis-Future&layout=compact&langs_count=7&theme=prussian"/>
 
 
@@ -10,13 +10,14 @@
 </div>
 <hr>
 
-**Ismis-Future/Ismis-Future** Hola a todos bienvenidos a mi github tengo 14 años, se programar.
+**Ismis-Future/Ismis-Future** Hola a todos bienvenidos a mi github tengo 14 años, se programar en varios lengujes de programación, Funde una empresa
+de desarrollo web.
 
-Here are some ideas to get you started:
+Que es lo que hago en mi dia a dia
 
 - 🔭 De vez en cuano hago proyectos con java
 - 🌱 Estoy aprendiendo py
-- 💬 Unete a mi server de discord <a href="https://discord.gg/S4XaZkf45m" target="_blank"></a>
+- 💬 Unete a mi server de discord <div><a href="https://discord.gg/S4XaZkf45m" target="_blank"></a></div>
 <!--- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
