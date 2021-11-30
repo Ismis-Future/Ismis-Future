@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ismis-Future&theme=prussian&show_icons=true&locale=en" alt="AndresMayorca8" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismis-Future&layout=compact&langs_count=7&theme=prussian"/>
 
-**Ismis-Future/Ismis-Future** es algo ✨ _special_ ✨ Tengo 14 años de edad.
+</div> 
+
+<!--
+**Ismis-Future/Ismis-Future** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
