@@ -8,9 +8,9 @@
  <a href="https://www.youtube.com/channel/UCpShfqHcTduURlVihvknzXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href = "mailto:herreraismael469@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<hr>
 
-
-**Ismis-Future/Ismis-Future** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ismis-Future/Ismis-Future** Hola a todos bienvenidos a mi github tengo 14 años, se programar.
 
 Here are some ideas to get you started:
 
