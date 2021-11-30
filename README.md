@@ -16,10 +16,10 @@ web development.
 What do I do in my day to day
 
 - 📝 I’m currently working on **My [Youtube channel](https://www.youtube.com/channel/UCpShfqHcTduURlVihvknzXg)**
-- 🌱 I’m currently learning **Web development, data science, Artificial Intelligent and smart contracts**
+- 🌱 I’m currently learning **Web development, data science**
 - 👯 He sought to collaborate in courses for big platforms
 - 💬 Ask me about **data sciencie, artificial intelligent, web development and smart contract**
-- 📫 How to reach me **andrescode21@gmail.com**
-- 📄 Know about my experiences [on my youtube channel](https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg)
+- 📫 How to reach me **bluelightswebs@gmail.com**
+- 📄 Know about my experiences [on my youtube channel](https://www.youtube.com/channel/UCpShfqHcTduURlVihvknzXg)
 
 
