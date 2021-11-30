@@ -10,15 +10,16 @@
 </div>
 <hr>
 
-**Ismis-Future/Ismis-Future** Hola a todos bienvenidos a mi github tengo 14 años, se programar en varios lengujes de programación, Funde una empresa
-de desarrollo web.
+**Ismis-Future/Ismis-Future** Hello everyone, welcome to my github I am 14 years old, I know how to program in various programming languages, Found a company
+web development.
 
-Que es lo que hago en mi dia a dia
+What do I do in my day to day
 
-- 🔭 De vez en cuano hago proyectos con java
-- 🌱 Estoy aprendiendo py
-- 💬 Unete a mi server de discord <div><a href="https://discord.gg/S4XaZkf45m" target="_blank"></a></div>
-<!--- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- 📝 I’m currently working on **My [Youtube channel](https://www.youtube.com/channel/UCpShfqHcTduURlVihvknzXg)**
+- 🌱 I’m currently learning **Web development, data science, Artificial Intelligent and smart contracts**
+- 👯 He sought to collaborate in courses for big platforms
+- 💬 Ask me about **data sciencie, artificial intelligent, web development and smart contract**
+- 📫 How to reach me **andrescode21@gmail.com**
+- 📄 Know about my experiences [on my youtube channel](https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg)
+
 
