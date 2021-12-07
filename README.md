@@ -1,6 +1,6 @@
 ### HeY aQuI vEn 👋
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ismis-Future&theme=prussian&show_icons=true&locale=en" alt="Ismis Future" /> <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismis-Future&layout=compact&langs_count=7&theme=prussian"/>
-[![trophy](https://github-profile-trophy.vercel.app/?Ismis-Future=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div[![trophy](https://github-profile-trophy.vercel.app/?Ismis-Future=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)>
 
 </div> 
 <hr>
