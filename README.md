@@ -6,8 +6,8 @@
 </div> 
 
 
-**Ismis-Future/Ismis-Future** Hello everyone, welcome to my github I am 14 years old, I know how to program in various programming languages, Found a company
-web development.<hr>
+
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,7 +16,8 @@ web development.<hr>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/79584395?v=4">
 </div>
 <hr>
- 
+**Ismis-Future/Ismis-Future** Hello everyone, welcome to my github I am 14 years old, I know how to program in various programming languages, Found a company
+web development. 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresCode08&theme=discord" alt="" /></a> </p>
  
 </div>
