@@ -15,9 +15,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/79584395?v=4">
 </div>
-<hr>
 **Ismis-Future/Ismis-Future** Hello everyone, welcome to my github I am 14 years old, I know how to program in various programming languages, Found a company
-web development. 
+web development.
+<hr>
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresCode08&theme=discord" alt="" /></a> </p>
  
 </div>
